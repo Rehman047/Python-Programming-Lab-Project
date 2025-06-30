@@ -3,7 +3,7 @@ Project Proposal:
 Interactive Bank Statement Analyzer
 <br>Created By:
 -	Abdul Rehman (2024026)
-1.	Project Objectives
+1.	Project Objectives<br>
 The main objective of this project is to develop an interactive, user-friendly dashboard that allows users to upload their bank statement CSV files and gain insights into their financial habits. The system will:
 -	Automatically categorize transactions (e.g., Food, Travel, Bills)
 -	Display summaries and visualizations (monthly expenses, category-wise spending)
@@ -25,5 +25,5 @@ Machine Learning Basics:
 -	Visual breakdown of financial activity
 -	ML insights for budgeting and anomaly detection
 -	Optional export of graphs and comparison features
-4.	Visual Insight Example
+4.	Visual Insight Example<br>
 A bar or pie chart will display spending across categories such as Food, Transport, Shopping, Utilities, etc. Users will be able to quickly identify their major spending areas and adjust their budget accordingly.
