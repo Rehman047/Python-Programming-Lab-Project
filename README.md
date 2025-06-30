@@ -1,7 +1,7 @@
 # Python-Programming-Lab-Project
 Project Proposal:
 Interactive Bank Statement Analyzer
-Created By:
+<br>Created By:
 -	Abdul Rehman (2024026)
 1.	Project Objectives
 The main objective of this project is to develop an interactive, user-friendly dashboard that allows users to upload their bank statement CSV files and gain insights into their financial habits. The system will:
